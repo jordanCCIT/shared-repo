@@ -3,6 +3,8 @@ public class HelloSlime{
         System.out.println("Hello Slime!");
         System.out.println("This line was added in a branch!!!!!!!!");
         System.out.println("This should cause a merge conflict!!");
+        System.out.println("This should also cause a merge conflict!!");
+        
     }
 
 }
